@@ -1,0 +1,16 @@
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Q2\bin\Debug\Q2.exe.config
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Q2\bin\Debug\Q2.exe
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Q2\bin\Debug\Q2.pdb
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Q2\obj\Debug\Q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Q2\obj\Debug\Q2.exe
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Q2\obj\Debug\Q2.pdb
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Parte 1\Q2\bin\Debug\Q2.exe.config
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Parte 1\Q2\bin\Debug\Q2.exe
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Parte 1\Q2\bin\Debug\Q2.pdb
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Parte 1\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Parte 1\Q2\obj\Debug\Q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Parte 1\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Parte 1\Q2\obj\Debug\Q2.exe
+C:\Users\Caioã\Desktop\paradigmas de linguagens de programação\lista 1\Parte 1\Q2\obj\Debug\Q2.pdb
